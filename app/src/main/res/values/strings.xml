@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Video Viewer</string>
+  <string name="vitamio_not_initialized">Библиотека просмотра видео не подключена</string>
+  <string name="error_title">Ошибка инициализации</string>
+</resources>
